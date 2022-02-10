@@ -1,0 +1,13 @@
+PiDRO Setup information
+24 # setup tab font size
+26 # mill tab font size
+28 # lathe tab font size
+30 # measure tab font size
+Units-inch # display units
+4 # data average
+1.0 # Mill scaling factor and direction
+1.0 # Mill scaling factor and direction
+1.0 # Mill scaling factor and direction
+1.0 # Lathe Length scaling factor and direction
+1.0 # Lathe Diameter scaling factor and direction
+1.0 # Caliper scaling factor and direction
